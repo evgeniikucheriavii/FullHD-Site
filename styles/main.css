@@ -35,12 +35,22 @@ body, html
 }
 
 
-.theme-button
+.hover-panel
 {
 	position: absolute;
 	right: 5px;
 	top: 5px;
+}
+
+.hover-panel__content
+{
+	padding: 5px;
+}
+
+.ui-button
+{
 	display: inline-block;
+	vertical-align: middle;
 	padding: 10px 25px;
 	cursor: pointer;
 }

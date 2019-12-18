@@ -21,6 +21,17 @@ body
 	background: #444;
 }
 
+.ui-button
+{
+	color: #f4f4f4;
+	background: #373737;
+}
+
+.ui-button:hover
+{
+	background: #444;
+}
+
 .theme-button
 {
 	color: #f4f4f4;
