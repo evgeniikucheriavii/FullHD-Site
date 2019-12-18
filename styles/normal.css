@@ -12,6 +12,7 @@ body, html
 .main__content
 {
 	width: 80% !important;
+	max-width: 1024px;
 	margin: 0 auto !important;
 }
 
