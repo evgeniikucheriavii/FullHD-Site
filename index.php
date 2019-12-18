@@ -32,7 +32,7 @@ if(!isset($_SESSION["scale"]))
 			</div>
 			<header class="header">
 				<div class="header__content">
-					<h1>Site with dark theme</h1>
+					<h1>Site with dark theme and UI Scaling</h1>
 					<nav class="nav">
 						<div class="nav__content">
 							<a href="#" class="nav__item nav__item_active">Home</a>
@@ -68,5 +68,6 @@ if(!isset($_SESSION["scale"]))
 			</main>
 		</div>
 		<script type="text/javascript" src="scripts/themes.js"></script>
+		<script type="text/javascript" src="scripts/scale.js"></script>
 	</body>
 </html>
